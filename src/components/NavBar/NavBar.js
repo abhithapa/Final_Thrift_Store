@@ -43,7 +43,7 @@ class NavBar extends Component {
             <div className="col-lg-12 text-right">
               <div className="logo_container">
                 <Link to="/">
-                  Fashion<span>Cube</span>
+                  Thrift<span>Store</span>
                 </Link>
               </div>
               <nav className="navbar">
